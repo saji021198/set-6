@@ -1,4 +1,4 @@
 q=int(input())
-list=["one","two","three","four","five","six","seven","eight","nine","ten"]
+list=["One","Two","Three","Four","Five","Six","Seven","Eight","Nine","Ten"]
 d=list[q-1]
 print(d)
